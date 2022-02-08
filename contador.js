@@ -8,6 +8,10 @@ function diminuir() {
     num--
     mostrarTaTela()
 }
+function zerar(){
+    num = 0
+    mostrarTaTela()
+}
 function mostrarTaTela(){
     const p = document.querySelector("p");
     p.innerText = num
