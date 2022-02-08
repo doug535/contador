@@ -14,4 +14,6 @@ div{
     border-radius: 20px;
     color: rgb(255, 255, 255);
 }
-
+button {
+    background-color: blue;
+}
